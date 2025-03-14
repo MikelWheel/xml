@@ -1,0 +1,90 @@
+<!-- 2.1 estudiantes -->
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <estudiante id="111">
+        <nombre>Juan</nombre>
+        <apellido1>Perales<apellido1>
+     </estudiante>
+</estudiantes>
+
+
+        <!-- 2.2 muebles -->
+<?xml version="1.0" encoding="UTF-8"?>
+<muebles>
+    <mueble>
+                <tipo>mesa</tipo>
+                <patas>cuatro</patas>
+                <ubicación>salón</ubicación>
+    </mueble>
+    <mueble>
+                <tipo>mesa</tipo>
+                <patas>cuatro</patas>
+                <ubicación>salón</ubicación>
+    </mueble>
+</muebles>
+
+
+
+
+<!-- 2.3 facturas -->
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+    <factura pagada="si">
+        <num_factura>1156</num_factura>
+        <nif>18456789</nif>
+        <fecha>12/02/2021</fecha>
+        <coste>126</coste>
+    </factura>
+    <factura pagada="si">
+        <num_factura>1157</num_factura>
+        <nif>18456123</nif>
+        <fecha>15/02/2021</fecha>
+        <coste>200</coste>
+    </factura>
+</facturas>
+
+
+<!-- 2.4 obras -->
+<?xml version="1.0" encoding="UTF-8"?>
+<obras>
+    <obra>
+        <titulo>La Gioconda</titulo>
+        <autor>Leonardo Da Vinci</autor>
+        <museo>Louvre</museo>
+    </obra>
+    <obra>
+        <titulo>La Noche Estrellada</titulo>
+        <autor>Vincent van Gogh</autor>
+        <museo>Museo arte Nueva York</museo>
+    </obra> 
+</obras>
+
+
+<!-- 2.5 formula 1 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<formula1>
+    <coche velocidad="300">
+        <marca>Ferrari</marca>
+        <marchas>8</marchas>
+    </coche>
+</formula1> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concensionario name="AutoNation">
+    <coches>
+        <coche id="1">
+            <matricula>1234ABC</matricula>
+            <marca>Ford</marca>
+            <modelo>Focus</modelo>
+            <potencia>90</potencia>
+            <kilometros>100000</kilometros>
+        </coche>
+        <coche id="2">
+            <matricula>5678DEF</matricula>
+            <marca>BMW</marca>
+            <modelo>320</modelo>
+            <potencia>120</potencia>
+            <kilometros>200000</kilometros>
+        </coche>
+    </coches>
+</concensionario>
+
+
+
+
