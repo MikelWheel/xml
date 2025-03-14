@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<info_cds>
+<grupos>
+<grupo name="The Beatles">
+
+<cantantes>
+<cantante>John Lennon</cantante>
+<cantante>Paul McCartney</cantante>
+<cantante>George Harrison</cantante>
+<cantante>Ringo Starr</cantante>
+</cantantes>
+
+<cds>
+<cd name="A hard day's night">
+<año>1964</año>
+<compañia>EMI</compañia>
+<precio>19.95</precio>
+<lista_de_canciones>
+<cancion> A hard day's night </cancion>
+<cancion> I should have known better </cancion>
+<cancion> If I fell </cancion>
+<cancion> I'm happy just to dance with you </cancion>
+<cancion> And I love her </cancion>
+<cancion> Tell me why </cancion>
+<cancion> Can't buy me love </cancion>
+<cancion> Any time at all </cancion>
+<cancion> I'll cry instead </cancion>
+<cancion> Things we said today </cancion>
+<cancion> When I get home </cancion>
+<cancion> You can't do that </cancion>
+<cancion> I'll be back </cancion>
+</lista_de_canciones>  
+</cd>
+
+<cd name="abbey road">
+<año>1969</año>
+<compañia>EMI</compañia>
+<precio>19.95</precio>
+<lista_de_canciones>
+<cancion> Come together </cancion>
+<cancion> Something </cancion>  
+<cancion> Maxwell's silver hammer </cancion>
+<cancion> Oh! Darling </cancion>
+<cancion> Octopus's garden </cancion>
+<cancion> I want you </cancion>
+<cancion> Here comes the sun </cancion>
+<cancion> Because </cancion>
+<cancion> You never give me your money </cancion>
+<cancion> Sun king </cancion>
+<cancion> Mean Mr. Mustard </cancion>
+<cancion> Polythene Pam </cancion>
+<cancion> She came in through the bathroom window </cancion>
+<cancion> Golden slumbers </cancion>
+<cancion> Carry that weight </cancion>
+<cancion> The end </cancion>
+<cancion> Her Majesty </cancion>
+</lista_de_canciones>
+
+</cd>
+</cds>
+</grupo>
+
+<grupo name="The Rolling Stones">
+<cantantes>
+<cantante>Mick Jagger</cantante>
+<cantante>Keith Richards</cantante>
+<cantante>Charlie Watts</cantante>
+<cantante>Ronnie Wood</cantante>
+</cantantes>
+
+<cds>
+<cd name="flowers">
+<año>1967</año>
+<compañia>London</compañia>
+<precio>19.95</precio>
+<lista_de_canciones>
+<cancion> Ruby Tuesday </cancion>
+<cancion> Have you seen your mother, baby, standing in the shadow? </cancion>
+<cancion> Let's spend the night together </cancion>
+<cancion> Lady Jane </cancion>
+<cancion> Out of time </cancion>
+<cancion> My obsession </cancion>
+<cancion> Back </cancion>
+<cancion> Please go home </cancion>
+<cancion> Mother's little helper </cancion>
+<cancion> Take it or leave it </cancion>
+<cancion> Ride on, baby </cancion>
+<cancion> Sittin' on a fence </cancion>
+</lista_de_canciones>
+
+</cd>
+</cds>
+</grupo>
+</grupos>
+</info_cds>
